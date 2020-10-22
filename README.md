@@ -55,19 +55,19 @@
   <div id="container">
    <div id="header">Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Фізики"</div>
   <div id="content">
-   1. Номер і тема лабораторної роботи
+  1. Номер і тема лабораторної роботи
 <h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
 3. iframe з результатом у pdf або html форматі 
-<p>3. <iframe src="lab1.pdf" width="500" height="700"></iframe></p> 
+<p>3. <iframe src="https://drive.google.com/file/d/1woDBySJOnMyR1YVFcrCxHRFz--F7Ehod/view?usp=sharing" width="500" height="700"></iframe></p> 
 4. Посилання на Google диск для перегляду результату
 <p>4. <a href="https://drive.google.com/file/d/1EMcujeD2NjQZpKg8B0KhUlnwkZNcnygz/view?usp=sharing">Посилання на Гугл диск</a></p> 
 5. OneDrive для перегляду результату
 <p>5. <a href="https://1drv.ms/w/s!AqL-Xn06iDZGc77SYa1fY_Cvlqo?e=JFy684">Посилання на OneDrive</a></p> 
  6.1. Рідний формат для редактору Microsoft Office. 
- <p>6.1 <a href="lab1.docx">Формат Microsoft (*.docx)</a></p> 
+ <p>6.1 <a href="">Формат Microsoft (*.docx)</a></p> 
 6.2. Рідний формат для редактору Libre (Open) Office.
- <p>6.2 <a href="lab1.odt">Формат Open Office (*.odt)</a></p>
-    <h2>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Фізики"</h2>
+ <p>6.2 <a href="">Формат Open Office (*.odt)</a></p>
+ <h2>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Фізики"</h2>
    </div>
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
